@@ -1,0 +1,24 @@
+
+Nombre de tarea
+modulo seguridad
+ 
+- diseño de las tablas que intervendran en en el LOGIN de acceso al WS
+- elaboracion de documentacion tecnica para los servicios web a publicar
+diseño
+- modulo de actualizacion de contraseña de acceso al WS del SO
+- modulo de autenticacion de usuario
+* creacion de una vista materializada en BD con datos de los contadores y abogados que son S.O. que se encuentran registrados en el sistema caronte v2 y caronte v1
+modulo de declaracion jurada contador abogado
+modulo registro de declaracion de contadores y abogados
+* analisis y diseño para la creacion de tablas en BD
+* creacion de CRUD
+* creacion de validaciones de campos 
+consulta contador abogado
+* consulta por documento
+Modulo de Reportes 
+Habilitacion ambiente de pruebas
+Servidor de apliaciones 
+Servidor de BD
+Fibra
+Cotizacion adm
+configuraciones
